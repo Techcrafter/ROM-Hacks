@@ -12,5 +12,3 @@ The repository is structured like this:
 ## Patching Your ROM
 
 The .xdelta file is the patch itself and can be applied to your ROM file using the [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher).
-
-### The ROM hacks in this repository can also be found on [ROMhacking.net](https://www.romhacking.net/)!
